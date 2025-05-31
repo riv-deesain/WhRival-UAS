@@ -21,3 +21,5 @@ flutter:
   uses-material-design: true
   assets:
     - assets/gambar_dosen/
+    - assets/mahasiswa/rival.jpg
+    - assets/json_data_chat_dosen/dosen_chat.json
